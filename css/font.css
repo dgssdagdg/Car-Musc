@@ -1,0 +1,21 @@
+@font-face {
+  font-family: "ReformaGroteskMediumC";
+  src: url("../font/ReformaGroteskMediumC.eot");
+  src: local("ReformaGroteskMediumC"), url("../font/ReformaGroteskMediumC.eot?#iefix") format("embedded-opentype"), url("../font/ReformaGroteskMediumC.woff") format("woff"), url("../font/ReformaGroteskMediumC.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: "ReformaGroteskDemiC";
+  src: url("../font/ReformaGroteskDemiC.eot");
+  src: local("ReformaGroteskDemiC"), url("../font/ReformaGroteskDemiC.eot?#iefix") format("embedded-opentype"), url("../font/ReformaGroteskDemiC.woff") format("woff"), url("../font/ReformaGroteskDemiC.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "ReformaGroteskBoldC";
+  src: url("../font/ReformaGroteskBoldC.eot");
+  src: local("ReformaGroteskBoldC"), url("../font/ReformaGroteskBoldC.eot?#iefix") format("embedded-opentype"), url("../font/ReformaGroteskBoldC.woff") format("woff"), url("../font/ReformaGroteskBoldC.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+}
